@@ -1,2 +1,13 @@
-# Djongo_vs_restapi_app
-Pet project: rest api + Mongo db
+# Django with MongoDB
+
+Pet project on DRF with MongoDB.
+
+## Endpoints
+
+`/cards`
+`/cards/:id`
+
+`/decks`
+`/decks/:id`
+
+`decks/:id/cards`
