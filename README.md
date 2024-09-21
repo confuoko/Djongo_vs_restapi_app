@@ -1,7 +1,18 @@
-# Djongo_vs_restapi_app
-Pet project: rest api + Mongo db
+# Django with MongoDB
 
-Technologies:
+Pet project on DRF with MongoDB.
+
+## Endpoints
+
+`/cards`
+`/cards/:id`
+
+`/decks`
+`/decks/:id`
+
+`decks/:id/cards`
+
+## Technologies:
 Django
 Djongo
 MongoDB
